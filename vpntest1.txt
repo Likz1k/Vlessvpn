@@ -1,4 +1,4 @@
-#profile-title: KallVpn - отобраны только худшие
+#profile-title: kallVpn - все худшее
 #profile-update-interval: 24
 #support-url: https://t.me/wielw
 #announce: Если не работает - обнови подписку или отпиши в тг @Vexsb
