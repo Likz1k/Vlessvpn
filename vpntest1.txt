@@ -1,5 +1,5 @@
-#profile-title: kallVpn 
-#profile-update-interval: 24
+#profile-title: kallVpn
+#profile-update-interval: 48
 #support-url: https://t.me/wielw
 #announce: Если не работает - обнови подписку или отпиши в тг @Vexsb
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
