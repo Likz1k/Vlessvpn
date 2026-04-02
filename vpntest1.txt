@@ -1,7 +1,7 @@
-#profile-title: Roma Shluha
+#profile-title: KallVpn
 #profile-update-interval: 48
 #support-url: https://t.me/wielw
-#announce: t.me/RomaPidor
+#announce: t.me/wIelw
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 
