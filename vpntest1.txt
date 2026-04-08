@@ -1,5 +1,5 @@
 #profile-title: RoflVpn
-#profile-update-interval: 24
+#profile-update-interval: 1
 #support-url: https://t.me/wielw
 #announce: ⚡-ютуб без рекламы ✳️-низкий пинг ~~~~ Если не работает - обнови подписку или отпиши в тг @wielw
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
