@@ -1,4 +1,4 @@
-#profile-title: RoflVpn 3d vers
+#profile-title: RoflVpn
 #profile-update-interval: 1
 #support-url: https://t.me/wielw
 #announce: Истекает 11.04 в 18:30 
