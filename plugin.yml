@@ -1,0 +1,6 @@
+name: CrossCobweb
+version: 1.0.0
+main: ru.likzik.crosscobweb.CrossCobweb
+api-version: '1.21'
+description: Adds a 5-string cross recipe that crafts one cobweb.
+author: Likzik
